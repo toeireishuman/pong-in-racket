@@ -58,6 +58,7 @@ PONG
 1. on-tick
 2. to-draw
 3. on-key
+4. stop-when
 
 ### Other characteristics
 
